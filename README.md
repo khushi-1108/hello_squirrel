@@ -11,7 +11,7 @@ Time spent: **48** hours spent in total
 
 **Hello Squirrel** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  It's an app deisgned to introduce ourself. 
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 💀💥⏳
 
 ## Application Features
 
@@ -30,13 +30,13 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [x] List anything else that you added to improve the app!
+- [] List anything else that you added to improve the app!
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='file:///C:/Users/Khushi/StudioProjects/and101-project1-starter/Video/Android%20Developement_%20Codepath/' />
+<img src='[(https://imgur.com/wK2IjFR)](https://imgur.com/wK2IjFR)' />
 
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
