@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[(https://imgur.com/wK2IjFR)](https://imgur.com/wK2IjFR)' >
+img src='[(https://imgur.com/wK2IjFR)](https://imgur.com/wK2IjFR)' 
 
 GIF created with **[ScreenToGif](https://www.screentogif.com/) for Windows**
 
